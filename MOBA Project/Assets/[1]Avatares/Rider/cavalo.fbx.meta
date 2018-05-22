@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: d547d66d073d0614fb57cb9e535efe51
+timeCreated: 1525226019
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: B_AnkleD_L
+    100004: B_AnkleD_R
+    100006: B_KneeD_L
+    100008: B_KneeD_R
+    100010: B_LegD_L
+    100012: B_LegD_R
+    100014: B_ToeTipD_L
+    100016: B_ToeTipD_R
+    100018: Body
+    100020: //RootNode
+    100022: F_ArmD_L
+    100024: F_ArmD_R
+    100026: F_ElbowD_L
+    100028: F_ElbowD_R
+    100030: F_FingerTipD_L
+    100032: F_FingerTipD_R
+    100034: F_WristD_L
+    100036: F_WristD_R
+    100038: HorseLowerBody
+    100040: HorseNeck
+    100042: HorseParentNode
+    100044: HorseUpperBody
+    100046: HorseUpperBody2Crank
+    100048: NewBone1
+    100050: NewBone10
+    100052: NewBone11
+    100054: NewBone12
+    100056: NewBone13
+    100058: NewBone14
+    100060: NewBone15
+    100062: NewBone16
+    100064: NewBone17
+    100066: NewBone2
+    100068: NewBone3
+    100070: NewBone4
+    100072: NewBone5
+    100074: NewBone6
+    100076: NewBone7
+    100078: NewBone8
+    100080: NewBone9
+    100082: Tail0
+    400000: Armature
+    400002: B_AnkleD_L
+    400004: B_AnkleD_R
+    400006: B_KneeD_L
+    400008: B_KneeD_R
+    400010: B_LegD_L
+    400012: B_LegD_R
+    400014: B_ToeTipD_L
+    400016: B_ToeTipD_R
+    400018: Body
+    400020: //RootNode
+    400022: F_ArmD_L
+    400024: F_ArmD_R
+    400026: F_ElbowD_L
+    400028: F_ElbowD_R
+    400030: F_FingerTipD_L
+    400032: F_FingerTipD_R
+    400034: F_WristD_L
+    400036: F_WristD_R
+    400038: HorseLowerBody
+    400040: HorseNeck
+    400042: HorseParentNode
+    400044: HorseUpperBody
+    400046: HorseUpperBody2Crank
+    400048: NewBone1
+    400050: NewBone10
+    400052: NewBone11
+    400054: NewBone12
+    400056: NewBone13
+    400058: NewBone14
+    400060: NewBone15
+    400062: NewBone16
+    400064: NewBone17
+    400066: NewBone2
+    400068: NewBone3
+    400070: NewBone4
+    400072: NewBone5
+    400074: NewBone6
+    400076: NewBone7
+    400078: NewBone8
+    400080: NewBone9
+    400082: Tail0
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: fcd282e1bd1e0634bb8e14d16bdae1cb
+timeCreated: 1525228853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Axe1_low
+    100002: Axe2_low
+    100004: Axe3_low
+    100006: AxeChain1_low
+    100008: AxeChain_low
+    100010: Foot_low1
+    100012: //RootNode
+    100014: Hemlet0_low
+    100016: Hemlet1_low
+    100018: Hemlet2_low
+    100020: Hemlet3_low
+    100022: Hemlet4_low
+    100024: LShoulder0_low
+    100026: LShoulder1_low
+    100028: RShoulder0_low
+    100030: RShoulder1_low
+    100032: RShoulder2_low
+    100034: Skirt2_low
+    100036: Skirt3_low
+    100038: Skirt_low
+    100040: Spikes1_low
+    100042: Spikes2_low
+    400000: Axe1_low
+    400002: Axe2_low
+    400004: Axe3_low
+    400006: AxeChain1_low
+    400008: AxeChain_low
+    400010: Foot_low1
+    400012: //RootNode
+    400014: Hemlet0_low
+    400016: Hemlet1_low
+    400018: Hemlet2_low
+    400020: Hemlet3_low
+    400022: Hemlet4_low
+    400024: LShoulder0_low
+    400026: LShoulder1_low
+    400028: RShoulder0_low
+    400030: RShoulder1_low
+    400032: RShoulder2_low
+    400034: Skirt2_low
+    400036: Skirt3_low
+    400038: Skirt_low
+    400040: Spikes1_low
+    400042: Spikes2_low
+    2300000: Axe1_low
+    2300002: Axe2_low
+    2300004: Axe3_low
+    2300006: AxeChain1_low
+    2300008: AxeChain_low
+    2300010: Foot_low1
+    2300012: Hemlet0_low
+    2300014: Hemlet1_low
+    2300016: Hemlet2_low
+    2300018: Hemlet3_low
+    2300020: Hemlet4_low
+    2300022: LShoulder0_low
+    2300024: LShoulder1_low
+    2300026: RShoulder0_low
+    2300028: RShoulder1_low
+    2300030: RShoulder2_low
+    2300032: Skirt2_low
+    2300034: Skirt3_low
+    2300036: Skirt_low
+    2300038: Spikes1_low
+    2300040: Spikes2_low
+    3300000: Axe1_low
+    3300002: Axe2_low
+    3300004: Axe3_low
+    3300006: AxeChain1_low
+    3300008: AxeChain_low
+    3300010: Foot_low1
+    3300012: Hemlet0_low
+    3300014: Hemlet1_low
+    3300016: Hemlet2_low
+    3300018: Hemlet3_low
+    3300020: Hemlet4_low
+    3300022: LShoulder0_low
+    3300024: LShoulder1_low
+    3300026: RShoulder0_low
+    3300028: RShoulder1_low
+    3300030: RShoulder2_low
+    3300032: Skirt2_low
+    3300034: Skirt3_low
+    3300036: Skirt_low
+    3300038: Spikes1_low
+    3300040: Spikes2_low
+    4300000: Foot_low1
+    4300002: Axe1_low
+    4300004: AxeChain_low
+    4300006: AxeChain1_low
+    4300008: Axe2_low
+    4300010: Axe3_low
+    4300012: RShoulder0_low
+    4300014: RShoulder1_low
+    4300016: RShoulder2_low
+    4300018: Skirt2_low
+    4300020: Skirt3_low
+    4300022: Skirt_low
+    4300024: Spikes1_low
+    4300026: Spikes2_low
+    4300028: LShoulder1_low
+    4300030: LShoulder0_low
+    4300032: Hemlet0_low
+    4300034: Hemlet2_low
+    4300036: Hemlet3_low
+    4300038: Hemlet4_low
+    4300040: Hemlet1_low
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
